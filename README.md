@@ -1,4 +1,4 @@
-# impossiblepasswords
+# Impossible Password Generator!
 Password generator that I personally use now to make me some stupid passwords!
 
 Pulls 3 out of 10,000 words from this link: https://www.mit.edu/~ecprice/wordlist.10000

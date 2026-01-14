@@ -7,6 +7,7 @@ It will then take the three words, add dashes between them instead of spaces, an
 
 TO DO:
 - Add special symbols randomly to replace common letters (a => @, e => 3, i = 1, etc.)
+- Add a minimum length requirement (i.e. ask user how long the password must be)
 
 
 
